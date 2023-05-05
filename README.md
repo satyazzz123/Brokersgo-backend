@@ -27,7 +27,7 @@ Install my-project with npm
 Clone the project
 
 ```bash
-  git clone https://github.com/jignyasamishra/BROKERS.GO-server-side
+  git clone https://github.com/satyazzz123/Brokersgo-backend
 ```
 
 Go to the project directory
